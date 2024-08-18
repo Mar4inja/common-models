@@ -72,9 +72,10 @@
 
     <distributionManagement>
         <repository>
-            <id>GitHub</id>
+            <id>github</id>
             <name>GitHub Packages</name>
             <url>https://maven.pkg.github.com/Mar4inja/common-models</url>
+
         </repository>
     </distributionManagement>
 
